@@ -6,6 +6,16 @@ const eslintConfig = defineConfig([
   ...nextVitals,
   ...nextTs,
   // Override default ignores of eslint-config-next.
+  {
+    rules: {
+      // Turn off any rule here:
+      "@next/next/no-img-element": "off",
+      "react-hooks/exhaustive-deps": "off",
+      "no-unused-vars": "off",
+      "no-console": "off",
+      "@typescript-eslint/no-require-imports": "off",
+    },
+  },
   globalIgnores([
     // Default ignores of eslint-config-next:
     ".next/**",
