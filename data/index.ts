@@ -104,7 +104,7 @@ export const projects = [
       "/tail.svg",
       "/sentry-original-logo.svg",
     ],
-    link: "https://github.com/adrianhajdin/ai_saas_app",
+    link: "https://github.com/Aayush251105/My-Portfolio",
   },
   {
     id: 4,
