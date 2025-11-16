@@ -174,17 +174,11 @@ export const companies = [
     img: "/sentry-original-logo.svg",
     nameImg: "/sentryname.svg",
   },
-  // {
-  //   id: 4,
-  //   name: "MongoDB",
-  //   img: "/mongo-svgrepo-com.svg",
-  //   nameImg: "/mongodb-logo-cropped.svg",
-  // },
   {
     id: 4,
     name: "clerk",
-    img: "/clerk.svg",
-    nameImg: "/clerkName.svg",
+    img: "/c.svg",
+    nameImg: "/clerkname.svg",
   },
   {
     id: 5,
