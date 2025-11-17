@@ -48,9 +48,9 @@ function Hero() {
             I design and develop user-focused digital experiences using modern web technologies. I&apos;m passionate about AI/ML and enjoy learning how intelligent systems can solve complex problems.
           </p>
 
-          <a href="#projects">
+          <a href="/AayushResume_New.pdf" target="_blank">
             <MagicButton
-            title="Show my work"
+            title="View Resume"
             icon={<FaLocationArrow/>}
             position="right"
             />
