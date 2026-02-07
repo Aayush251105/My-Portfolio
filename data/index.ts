@@ -86,6 +86,14 @@ export const projects = [
   },
   {
     id: 2,
+    title: "BookNow",
+    des: "BookNow is a full-stack property booking platform with search, filtering, secure authentication, integrated maps and media handling.",
+    img: "/BookNow 1.png",
+    iconLists: ["/nodejs.svg", "/express.svg", "/cloud.svg", "/mongo-svgrepo-com.svg", "/Render.svg"],
+    link: "https://booknow-s4kr.onrender.com",
+  },
+  {
+    id: 3,
     title: "QuestFlow",
     des: "Q&A platform with posting, answering, voting, and activity dashboards along with a reputation and leaderboard system.",
     img: "/Questflow 1.png",
@@ -93,7 +101,7 @@ export const projects = [
     link: "https://github.com/Aayush251105/Proj-QuestFlow",
   },
   {
-    id: 3,
+    id: 4,
     title: "My Portfolio",
     des: "A modern portfolio website built with Next.js, featuring a clean UI, smooth animations, and optimized performance.",
     img: "/portfolio 1.png",
@@ -107,7 +115,7 @@ export const projects = [
     link: "https://github.com/Aayush251105/My-Portfolio",
   },
   {
-    id: 4,
+    id: 5,
     title: "FiTrack",
     des: "Gym and sports facility management system with plan/court bookings and admin dashboards.",
     img: "/fiTrack 1.png",
@@ -125,7 +133,7 @@ export const projects = [
 export const testimonials = [
   {
     quote: "Shiv Nadar University",
-    name: "CGPA: 9.17",
+    name: "CGPA: 9.23",
     title: "Aug 2023 - May 2027",
   },
   {
